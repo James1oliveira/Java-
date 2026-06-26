@@ -6,7 +6,7 @@ package com.mycompany.chapter2;
 
 /**
  *
- * @author letha
+ * 
  */
 public class StreamingSongTestDrive {
 

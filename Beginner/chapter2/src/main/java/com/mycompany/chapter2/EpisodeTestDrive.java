@@ -6,14 +6,24 @@ package com.mycompany.chapter2;
 
 /**
  *
- * @author letha
+ * 
  */
 public class EpisodeTestDrive {
 
     public static void main(String[] args) {
+
+        // Create a new Episode object
         Episode episode = new Episode();
+
+        // Set the series number for this episode
         episode.seriesNumber = 4;
-        episode.play();        // ← BUG: Episode has no play() method
+
+        // Attempt to play the episode
+        // BUG: This will cause a compilation error because
+        // the Episode class does not contain a play() method.
+        episode.play();
+
+        // Call the skipIntro() method to skip the introduction
         episode.skipIntro();
     }
 }

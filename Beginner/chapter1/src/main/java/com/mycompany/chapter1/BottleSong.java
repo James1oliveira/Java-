@@ -8,7 +8,7 @@ package com.mycompany.chapter1;
  * BottleSong
  * Prints the "10 Green Bottles" song using a while loop.
  *
- * @author letha
+ * 
  */
 public class BottleSong {
 

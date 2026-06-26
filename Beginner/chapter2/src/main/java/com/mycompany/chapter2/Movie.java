@@ -8,7 +8,7 @@ package com.mycompany.chapter2;
  * Represents a movie with a title, genre, and rating.
  * Contains a method to simulate playing the movie.
  *
- * @author letha
+ * 
  */
 public class Movie {
 

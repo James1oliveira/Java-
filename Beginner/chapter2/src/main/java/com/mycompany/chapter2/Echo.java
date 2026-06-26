@@ -6,13 +6,18 @@ package com.mycompany.chapter2;
 
 /**
  *
- * @author letha
+ * 
  */
 public class Echo {
 
+    // Instance variable to keep track of the count for each Echo object
+    // Each Echo object has its own separate count variable
     int count = 0;
 
+    // Method that prints a greeting to the console
     void hello() {
+
+        // Display the message "helloooo..." when this method is called
         System.out.println("helloooo...");
     }
 }

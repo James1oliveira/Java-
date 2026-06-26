@@ -9,7 +9,7 @@ package com.mycompany.chapter1;
  * Generates a random buzzword phrase by selecting one word
  * from each of three different word lists.
  *
- * @author letha
+ * 
  */
 public class PhraseOMatic {
 

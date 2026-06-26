@@ -8,7 +8,7 @@ package com.mycompany.chapter2;
  * Tests the Dog class by creating a Dog object
  * and calling its methods.
  * 
- * @author letha
+ * 
  */
 public class DogTestDrive {
 

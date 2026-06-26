@@ -8,7 +8,7 @@ package com.mycompany.chapter2;
  * A simple guessing game where three players attempt
  * to guess a randomly generated number between 0 and 9.
  *
- * @author letha
+ * 
  */
 public class GuessGame {
 

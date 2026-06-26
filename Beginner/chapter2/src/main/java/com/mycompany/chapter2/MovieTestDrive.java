@@ -8,7 +8,7 @@ package com.mycompany.chapter2;
  * Tests the Movie class by creating Movie objects,
  * assigning values to their attributes, and calling methods.
  *
- * @author letha
+ * 
  */
 public class MovieTestDrive {
 

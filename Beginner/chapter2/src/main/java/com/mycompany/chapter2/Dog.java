@@ -8,7 +8,7 @@ package com.mycompany.chapter2;
  * A simple Dog class that stores information about a dog
  * and contains a method for barking.
  * 
- * @author letha
+ * 
  */
 public class Dog {
 

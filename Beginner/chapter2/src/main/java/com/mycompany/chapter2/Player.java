@@ -8,7 +8,7 @@ package com.mycompany.chapter2;
  * Represents a player in the guessing game.
  * Each player generates a random guess between 0 and 9.
  *
- * @author letha
+ *
  */
 public class Player {
 

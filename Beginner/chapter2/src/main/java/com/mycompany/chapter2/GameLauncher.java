@@ -8,7 +8,7 @@ package com.mycompany.chapter2;
  * Launches the GuessGame application by creating
  * a GuessGame object and starting the game.
  * 
- * @author letha
+ * 
  */
 public class GameLauncher {
 

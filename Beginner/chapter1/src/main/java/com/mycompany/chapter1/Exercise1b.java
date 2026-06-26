@@ -6,7 +6,7 @@ package com.mycompany.chapter1;
 
 /**
  *
- * @author letha
+ * 
  */
 class Exercise1b {
 
